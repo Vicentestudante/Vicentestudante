@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 🤙
+## boas vindas ao meu perfil 
 
 meu nome é vicente 
 
@@ -12,6 +12,7 @@ vicentemoro570@gmail.com
 
 @vicentemoro13
 
-![image](https://github.com/Vicentestudante/Vicentestudante/assets/174021659/a794f0d7-80db-4fd0-9078-98cb295615c0)
+![image](https://github.com/Vicentestudante/Vicentestudante/assets/174021659/1b24c07f-d641-4826-aba0-db05a67ee4fa)
+
 
 
