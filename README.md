@@ -2,7 +2,7 @@
 
 meu nome é vicente 
 
-- estou fazendo uma atividade na escola pelo alura
+- estou fazendo uma atividade na escola pelo [alura](https://www.alura.com.br)
 - estou aprendendo um pouco sobre javaScript
 - utilizo esse espaço para a minha organização e compartilhamento dos meus projetos criados
 
@@ -12,4 +12,6 @@ vicentemoro570@gmail.com
 
 @vicentemoro13
 
-![](https://tenor.com/pt-BR/view/mario-f-you-middle-finger-flip-off-gif-7760636297757702919)
+![image](https://github.com/Vicentestudante/Vicentestudante/assets/174021659/a794f0d7-80db-4fd0-9078-98cb295615c0)
+
+
