@@ -12,7 +12,9 @@ vicentemoro570@gmail.com
 
 @vicentemoro13
 
-https://th.bing.com/th/id/OIP.UhT-m-mFVcFhujtle9ZcbQHaFj?rs=1&pid=ImgDetMain
+![image](https://github.com/user-attachments/assets/60d41dc0-0ff7-425b-8f4d-5bb241359194)
+
+
 
 
 
