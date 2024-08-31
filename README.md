@@ -12,7 +12,7 @@ vicentemoro570@gmail.com
 
 @vicentemoro13
 
-![image](https://github.com/Vicentestudante/Vicentestudante/assets/174021659/1b24c07f-d641-4826-aba0-db05a67ee4fa)
+https://th.bing.com/th/id/OIP.UhT-m-mFVcFhujtle9ZcbQHaFj?rs=1&pid=ImgDetMain
 
 
 
